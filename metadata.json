@@ -1,0 +1,6 @@
+{
+  "name": "EcoRadar - Arquitetura Técnica & MVP Workbench",
+  "description": "Especificação técnica completa, arquitetura de sistemas cloud, mocks de código React Native/Node.js/PostGIS e simulador interativo para a plataforma EcoRadar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
